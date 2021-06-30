@@ -5,7 +5,7 @@
 ## I'm an Engineering Manager working with [AtliQ](https://atliq.com) and contributing to the youtube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
 
 - 💻 I’m currently working on Python (ML+DS Stack), VueJS, NodeJS and consulting for BI solutions.
-- 📚 I’m currently learning everything about Docker,Javascript Frameworks. 
+- 📚 I’m currently learning everything about Docker, Deep Learning, MLOps. 
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 - ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
 
@@ -35,6 +35,7 @@
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
