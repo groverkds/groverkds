@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 ### Reach out to me 📝
 
 [<img align="left" alt="groverkds | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
