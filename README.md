@@ -2,10 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Engineering Manager working with [AtliQ](https://atliq.com) and contributing to the youtube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
+## I'm an CEO of [AtliQ](https://atliq.com)
 
 - 💻 I’m currently working on Python (ML+DS Stack), VueJS, NodeJS and consulting for BI solutions.
-- 📚 I’m currently learning everything about Docker, Deep Learning, MLOps. 
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 - ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
 
